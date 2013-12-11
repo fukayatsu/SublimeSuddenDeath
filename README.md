@@ -4,6 +4,11 @@ SublimeSuddenDeath
 SublimeSuddenDeath (SSD) for **Sublime Text 3**
 
 # Installation
+
+### [Package Controll](https://sublime.wbond.net/installation)
+`CMD + shift + p` > `install package` > `sudden death`
+
+### GitHub Checkout(alternative)
 ```
 cd ~/Library/Application Support/Sublime Text 3/Packages/
 git clone git@github.com:fukayatsu/SublimeSuddenDeath.git
