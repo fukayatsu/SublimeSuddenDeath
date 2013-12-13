@@ -3,6 +3,19 @@ SublimeSuddenDeath
 
 A fun plugin which provide text decoration for **Sublime Text 3**
 
+like this.
+
+```
+突然の死
+```
+↓
+
+```
+＿人人人人人人＿
+＞　突然の死　＜
+￣ＹＹＹＹＹＹ￣
+```
+
 # Installation
 
 ### [Package Controll](https://sublime.wbond.net/installation)
@@ -24,9 +37,3 @@ see also: [Sublime Text - Key Bindings](http://www.sublimetext.com/docs/key-bind
 # Usage
 1. select word(s)
 2. `CMD + p` > `Convert to ＞SuddenDeath＜`
-
-```
-    ＿人人人人人人＿
-    ＞　突然の死　＜
-    ￣ＹＹＹＹＹＹ￣
-```
