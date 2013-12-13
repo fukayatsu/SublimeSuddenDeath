@@ -1,7 +1,7 @@
 SublimeSuddenDeath
 ==================
 
-SublimeSuddenDeath (SSD) for **Sublime Text 3**
+A fun plugin which provide text decoration for **Sublime Text 3**
 
 # Installation
 
